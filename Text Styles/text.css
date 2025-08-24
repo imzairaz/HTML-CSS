@@ -1,0 +1,34 @@
+        .p-tt {
+            font-family: arial;
+            font-weight: bold;
+            font-size: 18px;
+            width: 400px;
+            line-height: 22px;
+            margin-bottom: 0px;
+        }
+
+        .p-ttt {
+            font-family: arial;
+            font-size: 14px;
+            width: 300px;
+            color: rgb(88, 88, 88);
+            line-height: 18px;
+            margin-top: 0px;
+        }
+
+        .p-col {
+            background-color: rgb(255, 103, 103);
+            color: white;
+            font-family: Arial;
+            padding-top: 15px;
+            padding-bottom: 15px;
+            text-align: center;
+        }
+
+        .t-tt {
+            color: white;
+            cursor: pointer;
+        }
+        .t-tt:hover {
+        text-decoration: underline;
+        }
