@@ -1,0 +1,35 @@
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-section{
+    background-color: lightcyan;
+    flex: 150px;
+}
+
+.middle-section{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    background-color: lightblue;
+    margin-right: 30px;
+    margin-left: 70px;
+}
+
+.right-section{
+    background-color: lightcoral;
+    flex: 200px;
+}
+
+.yt-logo{
+    height: 20px;
+}
+
+.search-bar{
+    width: 250px;
+    height: 35px;
+}
